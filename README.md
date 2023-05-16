@@ -7,4 +7,5 @@
 - 💬 Ask me about nothing
 - 📫 How to reach me: impossible
 - 😄 Pronouns: none
-- ⚡ Fun fact: *Read more...*
+- ⚡ Fun fact: ...
+*Read more...*
