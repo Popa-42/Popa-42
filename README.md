@@ -5,8 +5,8 @@
 - 👯 I’m looking to collaborate on nothing
 - 🤔 I’m looking for help with nothing
 - 💬 Ask me about nothing
-- 📫 How to reach me: impossible
-- 😄 Pronouns: none
-- ⚡ Fun fact: ...
+- 📫 How to reach me: you don’t
+- 😄 Pronouns: don’t have any
+- ⚡ Fun fact: none
 
 *Read more...*
