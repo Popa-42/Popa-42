@@ -6,4 +6,6 @@ I’m Popa!
 - 😄 Pronouns: he/him
 - ⚡ Random fun fact: Did you know that if you add 1 meter to the circumference of any circle, its radius will *always* become around 15,92 cm bigger than before? This even applies to a circle that is as big as the equator!
 
+<img src="https://streak-stats.demolab.com?user=Popa-42&theme=dark&hide_border=true" height="250" alt="stats graph" />
+
 *Read more...*
