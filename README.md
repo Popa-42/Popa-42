@@ -35,8 +35,10 @@ I’m Popa!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" width="52" alt="androidstudio-logo" />
 </div>
 
+#
+
 <br />
-<hl>
+
 <br />
 
 <div align="center">
