@@ -42,5 +42,5 @@ I’m Popa!
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Popa-42&theme=dark&hide_border=true" height="250" alt="stats graph" />
+  <img src="https://streak-stats.demolab.com?user=Popa-42&theme=github_dark&hide_border=true" height="250" alt="stats graph" />
 </div>
