@@ -30,10 +30,10 @@ I’m Popa!
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode-logo"  />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" height="40" width="52" alt="datagrip-logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij-logo" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm-logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" height="40" width="52" alt="webstorm-logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm-logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" height="40" width="52" alt="datagrip-logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" width="52" alt="androidstudio-logo" />
 </div>
 
