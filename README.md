@@ -2,8 +2,8 @@
 
 I’m Popa!
 
-- 🌱 I’m currently learning TypeScript and Flutter. Also, I am kind of an expert in Python and I have experience in HTML/CSS, Java, C# and C++ and a few other programming languages.
-- 🏫 Also, I am an active developer on the [School ID](https://schoolid.de/) project.
+- 🌱 I’m currently learning Rust. Also, I am kind of an expert in Python and I have a lot of experience in React with TypeScript (especially Next.js). Additionally, I have experience with Java, as well as a bit of C# and C++, and a few other programming languages.
+- 🏫 Also, I am an active frontend developer on the [School ID](https://schoolid.de/) project.
 - 😄 Pronouns: he/him
 - ⚡ Random fun fact: Did you know that if you add 1 meter to the circumference of any circle, its radius will *always* become around 15,92 cm bigger than before? This even applies to a circle that is as big as the equator!
 
@@ -42,5 +42,7 @@ I’m Popa!
 <br />
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Popa-42&theme=github_dark&hide_border=true" height="250" alt="stats graph" />
+
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Popa-42&theme=github-dark&hide_border=true&border_radius=0&mode=weekly)](https://git.io/streak-stats)
+
 </div>
