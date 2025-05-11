@@ -2,10 +2,10 @@
 
 I’m Popa!
 
-- 🌱 I’m currently learning Rust. Also, I am kind of an expert in Python and I have a lot of experience in React with TypeScript (especially Next.js). Additionally, I have experience with Java, as well as a bit of C# and C++, and a few other programming languages.
-- 🏫 Also, I am an active frontend developer on the [School ID](https://schoolid.de/) project.
+- 🌱 I’m currently learning Rust. Also, I am kind of an expert in Python, I have some experience with Java, and I have touched C# and C++ before, as well as a handful of other programming languages.
+- 🏫 As an active frontend developer on the [School ID](https://schoolid.de/) project, I have a lot of experience in React with TypeScript (especially Next.js).
 - 😄 Pronouns: he/him
-- ⚡ Random fun fact: Did you know that if you add 1 meter to the circumference of any circle, its radius will *always* become around 15,92 cm bigger than before? This even applies to a circle that is as big as the equator!
+- ⚡ Random fun fact: Did you know that if you add 1 meter to the circumference of any circle, its radius will *always* become around 15,92 cm bigger than before? This even applies to a circle as big as the equator of Earth!
 
 ### My programming languages and experiences:
 
