@@ -5,7 +5,7 @@ I’m Popa!
 - 🌱 I’m currently learning Rust. Also, I am kind of an expert in Python, I have some experience with Java, and I have touched C# and C++ before, as well as a handful of other programming languages.
 - 🏫 As an active UX/UI developer on the [School ID](https://schoolid.de/) project, I have a lot of experience in React with TypeScript (especially Next.js).
 - 😄 Pronouns: he/him
-- ⚡ Random fun fact: Did you know that if you add 1 meter to the circumference of any circle, its radius will *always* become around 15,92 cm bigger than before? This even applies to a circle as big as the equator of Earth!
+- ⚡ Random fun fact: 100000001 is divisible by 17.
 
 ## My programming languages and experiences:
 
