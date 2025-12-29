@@ -23,11 +23,13 @@ I’m Popa!
   <a href="https://pytorch.org/" alt="PyTorch"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch-logo" /></a>
   <a href="https://tailwindcss.com/" alt="TailwindCSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="tailwindcss-logo" /></a>
   <a href="https://www.typescriptlang.org/" alt="Typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript-logo" /></a>
+  <a href="https://typst.app/" alt="Typst"><img src="https://typst.app/assets/apple-touch-icon.png" height="40" alt="typst-logo" style="border-radius: 5px" /></a>
 </div>
 
 ## The IDEs I mostly use:
 
 <div align="center">
+  <a href="https://code.visualstudio.com/" alt="Neovim"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" height="40" width="52" alt="nvim-logo"  /></a>
   <a href="https://code.visualstudio.com/" alt="Visual Studio Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode-logo"  /></a>
   <a href="https://www.jetbrains.com/idea/" alt="IntelliJ IDEA"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij-logo" /></a>
   <a href="https://www.jetbrains.com/webstorm" alt="WebStorm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" height="40" width="52" alt="webstorm-logo" /></a>
