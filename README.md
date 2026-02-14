@@ -2,14 +2,18 @@
 
 I’m Popa!
 
-- 🌱 I’m currently learning Rust. Also, I am kind of an expert in Python, I have some experience with Java, and I have touched C# and C++ before, as well as a handful of other programming languages.
-- 🏫 As an active UX/UI developer on the [School ID](https://schoolid.de/) project, I have a lot of experience in React with TypeScript (especially Next.js).
+- 🌱 I am kind of an expert in Python, I have quite some experience in web development, and I have touched C and Java before as well as a handful of other programming languages.
 - 😄 Pronouns: he/him
+- 📄 Typst is awesome!
 - ⚡ Random fun fact: 100000001 is divisible by 17.
+<!--
+- 🏫 As an active UX/UI developer on the [School ID](https://schoolid.de/) project, I have a lot of experience in React with TypeScript (especially Next.js).
+-->
 
 ## My programming languages and experiences:
 
 <div align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" height="40" width="52" alt="csharp-logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp-logo" />
   <a href="https://dart.dev/" alt="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" width="52" alt="dart-logo" /></a>
   <a href="https://flutter.dev/" alt="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter-logo" /></a>
@@ -29,13 +33,14 @@ I’m Popa!
 ## The IDEs I mostly use:
 
 <div align="center">
-  <a href="https://code.visualstudio.com/" alt="Neovim"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" height="40" width="52" alt="nvim-logo"  /></a>
+  <a href="https://neovim.io/" alt="Neovim"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/neovim/neovim-original.svg" height="40" width="52" alt="nvim-logo"  /></a>
   <a href="https://code.visualstudio.com/" alt="Visual Studio Code"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height="40" width="52" alt="vscode-logo"  /></a>
   <a href="https://www.jetbrains.com/idea/" alt="IntelliJ IDEA"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij-logo" /></a>
-  <a href="https://www.jetbrains.com/webstorm" alt="WebStorm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" height="40" width="52" alt="webstorm-logo" /></a>
-  <a href="https://www.jetbrains.com/pycharm" alt="PyCharm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm-logo" /></a>
-  <a href="https://www.jetbrains.com/datagrip" alt="DataGrip"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" height="40" width="52" alt="datagrip-logo" /></a>
-  <a href="https://developer.android.com/studio" alt="Android Studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" width="52" alt="androidstudio-logo" /></a>
+  <a href="https://www.jetbrains.com/pycharm/" alt="PyCharm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm-logo" /></a>
+<!--  <a href="https://www.jetbrains.com/datagrip/" alt="DataGrip"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" height="40" width="52" alt="datagrip-logo" /></a> -->
+  <a href="https://www.jetbrains.com/clion/" alt="CLion"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" height="40" width="52" alt="clion-logo" /></a>
+  <a href="https://www.jetbrains.com/webstorm/" alt="WebStorm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" height="40" width="52" alt="webstorm-logo" /></a>
+  <a href="https://developer.android.com/studio/" alt="Android Studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" width="52" alt="androidstudio-logo" /></a>
 </div>
 
 <br />
