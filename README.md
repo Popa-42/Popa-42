@@ -49,6 +49,6 @@ I’m Popa!
 
 <div align="center">
 
-  [![GitHub Streak](https://streak-stats.demolab.com?user=Popa-42&theme=github-dark&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+  [![GitHub Streak](https://streak-stats.demolab.com?user=Popa-42&theme=github-dark&hide_border=true&date_format=d.m.Y&mode=weekly)](https://git.io/streak-stats)
 
 </div>
