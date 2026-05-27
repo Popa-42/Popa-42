@@ -17,6 +17,7 @@ I’m Popa!
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp-logo" />
   <a href="https://dart.dev/" alt="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" width="52" alt="dart-logo" /></a>
   <a href="https://flutter.dev/" alt="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter-logo" /></a>
+  <a href="https://haskell.org/" alt="Haskell"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/haskell/haskell-original.svg" height="40" width="52" alt="haskell-logo"  /></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="40" width="52" alt="html5-logo" />
   <a href="https://www.java.com/" alt="Java"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="40" width="52" alt="java-logo"  /></a>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" width="52" alt="javascript-logo"  />
