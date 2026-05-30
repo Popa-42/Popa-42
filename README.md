@@ -45,7 +45,7 @@ I’m Popa!
   <a href="https://www.jetbrains.com/idea/" alt="IntelliJ IDEA"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" height="40" width="52" alt="intellij-logo" /></a>
   <a href="https://www.jetbrains.com/pycharm/" alt="PyCharm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" height="40" width="52" alt="pycharm-logo" /></a>
 <!--  <a href="https://www.jetbrains.com/datagrip/" alt="DataGrip"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" height="40" width="52" alt="datagrip-logo" /></a> -->
-  <a href="https://www.jetbrains.com/clion/" alt="CLion"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" height="40" width="52" alt="clion-logo" /></a>
+  <!-- <a href="https://www.jetbrains.com/clion/" alt="CLion"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/clion/clion-original.svg" height="40" width="52" alt="clion-logo" /></a> -->
   <a href="https://www.jetbrains.com/webstorm/" alt="WebStorm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" height="40" width="52" alt="webstorm-logo" /></a>
   <a href="https://developer.android.com/studio/" alt="Android Studio"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/androidstudio/androidstudio-original.svg" height="40" width="52" alt="androidstudio-logo" /></a>
 </div>
