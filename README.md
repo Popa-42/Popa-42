@@ -32,6 +32,7 @@ I’m Popa!
   <a href="https://rust-lang.org/" alt="Rust"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rust/rust-original.svg" height="40" width="52" alt="rust-logo" /></a>
   <a href="https://www.sqlalchemy.org/" alt="SQLAlchemy"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlalchemy/sqlalchemy-original.svg" height="40" width="52" alt="sqlalchemy-logo" /></a>
   <a href="https://sqlite.org/" alt="SQLite"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" height="40" width="52" alt="sqlite-logo" /></a>
+  <a href="https://sqlmodel.tiangolo.com/" alt="SQLModel"><img src="https://sqlmodel.tiangolo.com/img/icon-white.svg" height="40" width="52" alt="sqlmodel-logo"></a>
   <a href="https://tailwindcss.com/" alt="TailwindCSS"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" height="40" width="52" alt="tailwindcss-logo" /></a>
   <a href="https://www.typescriptlang.org/" alt="Typescript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="40" width="52" alt="typescript-logo" /></a>
   <a href="https://typst.app/" alt="Typst"><img src="https://typst.app/assets/apple-touch-icon.png" height="40" alt="typst-logo" style="border-radius: 5px" /></a>
