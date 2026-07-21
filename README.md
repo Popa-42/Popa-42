@@ -26,6 +26,7 @@ I’m Popa!
   <a href="https://npmjs.com/" alt="npm"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original.svg" height="40" width="52" alt="npm-logo"  /></a>
   <a href="https://react.dev/" alt="React"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" height="40" width="52" alt="react-logo"  /></a>
   <a href="https://www.postgresql.org/" alt="PostgreSQL"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" height="40" width="52" alt="postgresql-logo" /></a>
+  <a href="https://pydantic.dev/" alt="Pydantic"><img src="https://raw.githubusercontent.com/pydantic/brand/refs/heads/main/pydantic-logo-square-120px-transparent.svg" height="40" width="52" alt="pydantic-logo" /></a>
   <a href="https://python.org/" alt="Python"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" height="40" width="52" alt="python-logo" /></a>
   <a href="https://pytorch.org/" alt="PyTorch"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" height="40" width="52" alt="pytorch-logo" /></a>
   <a href="https://qt.io/" alt="Qt"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/qt/qt-original.svg" height="40" width="52" alt="qt-logo" /></a>
