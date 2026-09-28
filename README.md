@@ -13,7 +13,7 @@ I’m Popa!
 ## My programming languages and experiences:
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" height="40" width="52" alt="csharp-logo" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/c/c-original.svg" height="40" width="52" alt="c-logo" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" height="40" width="52" alt="csharp-logo" />
   <a href="https://dart.dev/" alt="Dart"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dart/dart-original.svg" height="40" width="52" alt="dart-logo" /></a>
   <a href="https://flutter.dev/" alt="Flutter"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" height="40" width="52" alt="flutter-logo" /></a>
